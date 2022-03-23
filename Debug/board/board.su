@@ -1,0 +1,2 @@
+/Users/Documentos/MCUXpresso_SisEmb/frdmk64f_lwip_mqtt_freertos/utilities/fsl_debug_console.h:152:24:DbgConsole_Init	24	static
+../board/board.c:17:6:BOARD_InitDebugConsole	16	static
